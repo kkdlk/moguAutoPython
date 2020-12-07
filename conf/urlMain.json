@@ -1,0 +1,6 @@
+{
+  "loginUrl": "https://api.moguding.net:9000/session/user/v1/login",
+  "signUrl": "https://api.moguding.net:9000/attendence/clock/v1/save",
+  "planUrl": "https://api.moguding.net:9000/practice/plan/v1/getPlanByStu",
+  "reportUrl": "https://api.moguding.net:9000/practice/paper/v1/save"
+}
